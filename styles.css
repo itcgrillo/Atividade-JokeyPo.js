@@ -70,3 +70,17 @@ p {
     color: rgb(247, 8, 8);
 }
 
+@media screen and (max-width: 1200px) {
+    
+    .container{
+        width: 50vw;
+    }
+}
+
+@media screen and (max-width: 700px) {
+    
+    .container{
+        width: 100vw;
+    }
+}
+
